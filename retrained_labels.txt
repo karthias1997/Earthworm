@@ -1,0 +1,17 @@
+corn common rust
+corn gray leaf spot
+corn healthy
+corn northern leaf blight
+potato early blight
+potato healthy
+potato late blight
+tomato bacterial spot
+tomato early blight
+tomato late blight
+tomato leaf mold
+tomato mosaic virus
+tomato septoria leaf spot
+tomato target spot
+tomato two spotted spider mite
+tomato yellow leaf curl virus
+tomato healthy
