@@ -24,7 +24,9 @@ EARTHWORM – A friend of farmer:
 
 INSTRUCTIONS:
 	
-	This trained model can be accessed by the Disease_Analyzer.py python file. Open the command prompt or anaconda prompt from the current repository. Then type the following python command in the command prompt:
+	This trained model can be accessed by the Disease_Analyzer.py python file. 
+	Open the command prompt or anaconda prompt from the current repository. 
+	Then type the following python command in the command prompt:
 
 “ python Disease_Analyzer.py --image test_img/corn_healthy.jpg “
 
