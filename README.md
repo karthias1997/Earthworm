@@ -24,5 +24,8 @@ EARTHWORM – A friend of farmer:
 
 INSTRUCTIONS:
 	
-	Our trained model can be access by the following ways. We can give input either as a still image location or we can use our camera to capture the leaves of the plant. For giving input as a still image we can use Disease_Analyzer.py and we can give input in the in the file_name variable in that python file. There is also another way is available. We can use our camera to detect the diseases of the plant. 
-Now we are working on to deploy our trained model in tensorflow lite to enable smartphones can detect the diseases of the leaves.
+	Our trained model can be access by the following ways.
+	We can give input either as a still image location or we can use our camera to capture the leaves of the plant. 
+	For giving input as a still image we can use Disease_Analyzer.py and we can give input in the in the file_name variable in that python file. 
+	There is also another way is available. We can use our camera to detect the diseases of the plant. 
+	Now we are working on to deploy our trained model in tensorflow lite to enable smartphones can detect the diseases of the leaves.
